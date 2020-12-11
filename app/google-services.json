@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703545013513",
+    "project_id": "firesotre-1ae77",
+    "storage_bucket": "firesotre-1ae77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703545013513:android:dab212ce7ec7960d160fd8",
+        "android_client_info": {
+          "package_name": "com.codigonline.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703545013513-hafssks2ssrd6ondg91luv7o7p3ec8ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQagoz5KiaS2HRl7K_iU0bPHgevWVKChQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703545013513-hafssks2ssrd6ondg91luv7o7p3ec8ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
